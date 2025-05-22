@@ -1,19 +1,19 @@
 [
   {
-    "id": "r1/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482006250-1747935253518",
-    "duration_ms": 19000,
-    "time": "2025-05-22T01:34:14.000Z",
-    "wav_url": "storage.googleapis.com/citizen-production/r1/1556e4a63a20d47443ab1cc8b2870764/US-NY-NEWYORK/0003462421-470837500-1703112778055.wav",
-    "spectrogram": "waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482168750/1747935222991-001c097f-6749-4125-b11a-9d8a55204e33-spectrogram.jpg",
-    "channelName": "Clip 1 (Bronx)"
-  },
-  {
     "id": "r1/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482168750-1747935222991",
     "duration_ms": 6009,
     "time": "2025-05-22T17:33:43.000Z",
     "wav_url": "storage.googleapis.com/citizen-production/waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482168750/1747935222991-001c097f-6749-4125-b11a-9d8a55204e33.aac",
     "spectrogram": "waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482168750/1747935222991-001c097f-6749-4125-b11a-9d8a55204e33-spectrogram.jpg",
     "channelName": "FDNY EMS CW1"
+  },
+  {
+    "id": "r1/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482006250-1747935253518",
+    "duration_ms": 19000,
+    "time": "2025-05-22T01:34:14.000Z",
+    "wav_url": "storage.googleapis.com/citizen-production/r1/1556e4a63a20d47443ab1cc8b2870764/US-NY-NEWYORK/0003462421-470837500-1703112778055.wav",
+    "spectrogram": "waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482168750/1747935222991-001c097f-6749-4125-b11a-9d8a55204e33-spectrogram.jpg",
+    "channelName": "Clip 1 (Bronx)"
   },
   {
     "id": "r1/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482006250-1747935220405",
