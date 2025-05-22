@@ -116,6 +116,40 @@
 	<script src="./Regulator_files/commons.4cde475eee0ba05e9df2.js" async=""></script>
 	<script src="./Regulator_files/styles.e0435d76e47fe8164721.js" async=""></script>
 	<script src="./Regulator_files/main-b9f784b1e1d5a24d9745.js" async=""></script>
+	<script>
+  // Get clip id from the URL
+  const params = new URLSearchParams(window.location.search);
+  const clipId = params.get("id");
+
+  // Define your schedule per candidate or clip
+  const schedule = {
+    LAshootingatparty: {
+      unlock: Date.UTC(2025, 4, 22, 18, 0),  // May 22, 2025, 16:00 UTC
+      expire: Date.UTC(2025, 4, 22, 18, 30), // May 22, 2025, 17:30 UTC
+    },
+   test1newname: {
+      unlock: Date.UTC(2025, 4, 22, 18, 31),  // 18:00 UTC
+      expire: Date.UTC(2025, 4, 22, 18, 40),  // 19:00 UTC
+    },
+    // Add more ids here
+  };
+
+  const now = Date.now();
+
+  // If no schedule exists for the clip, block access
+  if (!schedule[clipId]) {
+    document.body.innerHTML = "<h2>This test ID is not recognized.</h2>";
+  } else {
+    const { unlock, expire } = schedule[clipId];
+    if (now < unlock) {
+      document.body.innerHTML = "<h2>This test is not yet available. Please check back at your scheduled time.</h2>";
+    } else if (now > expire) {
+      document.body.innerHTML = "<h2>This test has expired.</h2>";
+    }
+    // Else: let the page load as normal (content stays visible)
+  }
+</script>
+
 </body>
 
 </html>
