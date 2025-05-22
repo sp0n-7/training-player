@@ -1,0 +1,42 @@
+[
+  {
+    "id": "r1/01a7b7c1adf4c11c825de003186c9463/US-TN-MEMPHIS/9FD-339-1746833805000",
+    "duration_ms": 30040,
+    "time": "2025-05-09T23:36:45.000Z",
+    "wav_url": "storage.googleapis.com/citizen-production/waveguide/01a7b7c1adf4c11c825de003186c9463/US-TN-MEMPHIS/9FD-339/1746833805000-8a61a1a0-c88b-4c6a-9f8f-1bd3c5473769.aac",
+    "spectrogram": "waveguide/01a7b7c1adf4c11c825de003186c9463/US-TN-MEMPHIS/9FD-339/1746833805000-8a61a1a0-c88b-4c6a-9f8f-1bd3c5473769-spectrogram.jpg",
+    "channelName": "Clip 1 (Memphis)"
+  },
+  {
+    "id": "r1/4d7f245484aa69a65b3f544472d9a948/US-PA-PHILADELPHIA/3B2-23-1745534130000",
+    "duration_ms": 14220,
+    "time": "2025-04-24T22:35:30.000Z",
+    "wav_url": "storage.googleapis.com/citizen-production/waveguide/4d7f245484aa69a65b3f544472d9a948/US-PA-PHILADELPHIA/3B2-23/1745534130000-21f327de-6e8a-469e-a331-313f7f3702fa.aac",
+    "spectrogram": "waveguide/4d7f245484aa69a65b3f544472d9a948/US-PA-PHILADELPHIA/3B2-23/1745534130000-21f327de-6e8a-469e-a331-313f7f3702fa-spectrogram.jpg",
+    "channelName": "Clip 2 (Philadelphia)"
+  },
+  {
+    "id": "r1/13ddec91b522ac888e9b3cb6f00a4db2/US-MD-BALTIMORE/389-9106-1746845544000",
+    "duration_ms": 30672,
+    "time": "2025-05-10T02:52:24.000Z",
+    "wav_url": "storage.googleapis.com/citizen-production/waveguide/13ddec91b522ac888e9b3cb6f00a4db2/US-MD-BALTIMORE/389-9106/1746845544000-e6fcdd80-4111-4f00-9c9b-1f896724abc3.aac",
+    "spectrogram": "waveguide/13ddec91b522ac888e9b3cb6f00a4db2/US-MD-BALTIMORE/389-9106/1746845544000-e6fcdd80-4111-4f00-9c9b-1f896724abc3-spectrogram.jpg",
+    "channelName": "Clip 3 (Baltimore)"
+  },
+  {
+    "id": "r1/36466bbd4039dc6418b81ac25cbab7db/US-CA-SANDIEGO/375-81-1746241690000",
+    "duration_ms": 26280,
+    "time": "2025-05-03T03:08:10.000Z",
+    "wav_url": "storage.googleapis.com/citizen-production/waveguide/36466bbd4039dc6418b81ac25cbab7db/US-CA-SANDIEGO/375-81/1746241690000-122a67df-90af-47d0-a705-95fda3780fcb.aac",
+    "spectrogram": "waveguide/36466bbd4039dc6418b81ac25cbab7db/US-CA-SANDIEGO/375-81/1746241690000-122a67df-90af-47d0-a705-95fda3780fcb-spectrogram.jpg",
+    "channelName": "Clip 4 (San Diego)"
+  },
+  {
+    "id": "r1/2f9d3698c7885261e20b0353336a6cb2/US-CA-LOSANGELES/0001536242-484362500-1746321229580",
+    "duration_ms": 12420,
+    "time": "2025-05-04T01:13:50.000Z",
+    "wav_url": "storage.googleapis.com/citizen-production/waveguide/2f9d3698c7885261e20b0353336a6cb2/US-CA-LOSANGELES/0001536242-484362500/1746321229580-3fb17017-eb63-483c-84e8-d7b5c8855a55.aac",
+    "spectrogram": "waveguide/2f9d3698c7885261e20b0353336a6cb2/US-CA-LOSANGELES/0001536242-484362500/1746321229580-3fb17017-eb63-483c-84e8-d7b5c8855a55-spectrogram.jpg",
+    "channelName": "Clip 5 (Los Angeles)"
+  }
+]
