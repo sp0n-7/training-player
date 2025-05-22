@@ -1,13 +1,5 @@
 [
   {
-    "id": "r1/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482006250-1747935253518",
-    "duration_ms": 3048,
-    "time": "2025-05-21T17:34:14.000Z",
-    "wav_url": "storage.googleapis.com/citizen-production/waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482006250/1747935253518-709ebbac-52d0-4ffb-a185-ea38b8cfc833.aac",
-    "spectrogram": "waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482006250/1747935253518-709ebbac-52d0-4ffb-a185-ea38b8cfc833-spectrogram.jpg",
-    "channelName": "Clip 1 (Bronx)"
-  },
-  {
     "id": "r1/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482168750-1747935222991",
     "duration_ms": 6009,
     "time": "2025-05-22T17:33:43.000Z",
