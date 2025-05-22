@@ -1,25 +1,26 @@
 [
   {
     "id": "r1/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482006250-1747935253518",
-    "duration_ms": 30480,
-    "time": "2025-05-21T17:34:14.000Z",
+    "duration_ms": 3048,
+    "time": "2025-05-22T01:34:14.000Z",
     "wav_url": "storage.googleapis.com/citizen-production/waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482006250/1747935253518-709ebbac-52d0-4ffb-a185-ea38b8cfc833.aac",
-    "spectrogram": "waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482006250/1747935253518-709ebbac-52d0-4ffb-a185-ea38b8cfc833-spectrogram.jpg",
+    "spectrogram": "waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482168750/1747935222991-001c097f-6749-4125-b11a-9d8a55204e33-spectrogram.jpg",
     "channelName": "Clip 1 (Bronx)"
   },
   {
     "id": "r1/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482168750-1747935222991",
     "duration_ms": 6009,
     "time": "2025-05-22T17:33:43.000Z",
-    "wav_url": "storage.googleapis.com/citizen-production/waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482168750/1747935222991-001c097f-6749-4125-b11a-9d8a55204e33.aac"
-    "channelName": "Clip 2"
+    "wav_url": "storage.googleapis.com/citizen-production/waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482168750/1747935222991-001c097f-6749-4125-b11a-9d8a55204e33.aac",
+    "spectrogram": "waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482168750/1747935222991-001c097f-6749-4125-b11a-9d8a55204e33-spectrogram.jpg",
+    "channelName": "FDNY EMS CW1"
   },
   {
     "id": "r1/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482006250-1747935220405",
     "duration_ms": 30595,
     "time": "2025-05-22T17:33:40.000Z",
     "wav_url": "storage.googleapis.com/citizen-production/waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482006250/1747935220405-5aeaa2aa-a595-431e-83f7-d753195bed64.aac",
-    "spectrogram": "waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482006250/1747935220405-5aeaa2aa-a595-431e-83f7-d753195bed64-spectrogram.jpg",
+    "spectrogram": "waveguide/c7f90ffc4b4beb08942e07885b3a66d7/US-NY-NEWYORK/FDNY-482168750/1747935222991-001c097f-6749-4125-b11a-9d8a55204e33-spectrogram.jpg",
     "channelName": "Bronx FDNY"
   }
   ]
